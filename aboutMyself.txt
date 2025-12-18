@@ -6,4 +6,6 @@ Section:c
 Branch:Information Science `engineering
 Year of Admission:2025
 collage Name:Ghousia Collage Of Engineering
-
+sslc:GHS mallapura
+puc:Hanumanta benne pu collage nellikeri
+ug-degree :BE-information science engineering(2nd year)
